@@ -58,6 +58,7 @@ Here, I am going to describe these features in brief.
 $ mkdir build
 $ cd build
 $ cmake ..
+$ make
 ```
 
 ## How to execute: ##
